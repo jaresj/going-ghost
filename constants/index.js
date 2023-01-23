@@ -19,8 +19,8 @@ export const exploreTeams = [
   },
   {
     id: 'team-4',
-    imgUrl: '/GG_Simple_Team_Logo.png',
-    title: 'Going Ghost AGL',
+    imgUrl: '/GG_RETRO_AGL.png',
+    title: 'Going Ghost',
     league: 'Aegis',
   },
   {
