@@ -23,7 +23,7 @@ const Footer = () => (
           className="flex items-center h-fit py-4 px-6 bg-[#25618b] rounded-[32px] gap-[12px]"
         >
           {/* <img src="/GG_Retro_Logo.png" alt="Logo" className="w-[24px] h-[24px] object-contain" /> */}
-          <span className="font-normal text-[16px] text-white">Join The Graveyard</span>
+          <span className="font-normal text-[16px] text-white">Join The Nightmare</span>
         </button>
       </div>
 
