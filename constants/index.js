@@ -85,17 +85,16 @@ export const socials = [
   {
     name: 'twitter',
     url: '/twitter.svg',
+    href: 'https://twitter.com/GoingGhostLoL',
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: 'discord',
+    url: '/discord.svg',
+    href: 'https://discord.gg/Dt2hnz5dFx',
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
-  },
-  {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'tiktok',
+    url: '/tiktok.svg',
+    href: 'https://www.tiktok.com/@goingghostorg',
   },
 ];
