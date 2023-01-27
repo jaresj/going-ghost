@@ -4,7 +4,7 @@ Webpage for the Going Ghost
 
 **Link to project:** https://going-ghost.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](./public/going-ghost.gif)
 
 ## How It's Made:
 
