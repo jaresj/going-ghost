@@ -90,7 +90,7 @@ export const socials = [
   {
     name: 'discord',
     url: '/discord.svg',
-    href: 'https://discord.gg/Dt2hnz5dFx',
+    href: '#',
   },
   {
     name: 'tiktok',
