@@ -21,7 +21,7 @@ export const exploreTeams = [
     id: 'team-4',
     imgUrl: '/GG_RETRO_AGL.png',
     title: 'Going Ghost',
-    league: 'Aegis',
+    league: 'ZGG',
   },
   {
     id: 'team-5',
@@ -34,6 +34,12 @@ export const exploreTeams = [
     imgUrl: '/GG_Simple_Team_Logo.png',
     title: 'Going Ghost On Ice',
     league: 'Victoris',
+  },
+  {
+    id: 'team-7',
+    imgUrl: '/GoingGeese.png',
+    title: 'Going Goose',
+    league: 'Emerald',
   },
 ];
 
