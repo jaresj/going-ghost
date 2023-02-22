@@ -20,7 +20,7 @@ const GetStarted = () => (
         variants={teamVariants('left')}
         className={`flex-1 ${styles.flexCenter}`}
       >
-        <img src="/GG_RETRO.png" alt="get-started" className="w-[90%] h-[90%] object-contain" />
+        <img src="/GG_Retro_logo.png" alt="get-started" className="w-[90%] h-[90%] object-contain" />
       </motion.div>
       <motion.div
         variants={fadeIn('left', 'tween', 0.2, 1)}
