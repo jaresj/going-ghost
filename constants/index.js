@@ -25,13 +25,13 @@ export const exploreTeams = [
   },
   {
     id: 'team-5',
-    imgUrl: '/GG3.png',
+    imgUrl: '/GoingGoldfish_no_words.png',
     title: 'Going Goldfish',
     league: 'ZGG',
   },
   {
     id: 'team-8',
-    imgUrl: '/GG_Simple_Team_Logo.png',
+    imgUrl: '/GG3.png',
     title: 'Going Ghost Ascended',
     league: 'Risen Unstoppable',
   },
